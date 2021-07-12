@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Bem vindo ao meu github
-### EInteresse em ciência e engenharia de dados
+### Interesse em ciência e engenharia de dados
 ### Crescendo para impactar positivamente o mundo de dados!
 
 ### Linekdin: https://www.linkedin.com/in/georgerazera/
