@@ -1,9 +1,4 @@
-### Hi there 👋
-### Bem vindo ao meu github
-### Interesse em ciência e engenharia de dados
-### Crescendo para impactar positivamente o mundo de dados!
 
-### Linekdin: https://www.linkedin.com/in/georgerazera/
 
 <!--
 **razerageorge/razerageorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
